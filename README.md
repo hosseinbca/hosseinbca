@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @hosseinbca
+- 🔖 degree of education : Master of Software Engineering (M.Eng)
 - 👀 I’m interested in ML , Python , Flutter
 - 🌱 I’m currently learning ML & Django
 - 📫 Hosseinbca.prg@gmail.com
